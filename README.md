@@ -92,7 +92,7 @@ The experience you create should be designed to be completed in about 15 minutes
 
 Submit your writing via Discord and be sure to include a link to your project! The Emily Short article linked above has useful suggestions for how to distribute your work.
 
-#### Readings (due Sept. 6th)
+#### Readings (due Sept. 2nd)
 Please submit a summary to me through Discord per the instructions at the top of the Course Summary.
 - [Embodiment of Code - Marije Baalman](https://zenodo.org/record/18748#.YBepti9h124)
 - [Radical Clashes: What Tangible Interaction Is Made Of - Dijk1 et al](https://dl.acm.org/doi/pdf/10.1145/2460625.2460680?casa_token=nkmEsDhG44IAAAAA:sYqyBsnk4_tssXNF-5-SyyIpUbZZiJlu_L_7AuIiUahK_0TCU6vJKLCWjmrO_rNlHZ_yNvUk9-mw)
