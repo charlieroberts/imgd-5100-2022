@@ -97,7 +97,7 @@ Please submit a summary to me through Discord per the instructions at the top of
 - [Embodiment of Code - Marije Baalman](https://zenodo.org/record/18748#.YBepti9h124)
 - [Radical Clashes: What Tangible Interaction Is Made Of - Dijk1 et al](https://dl.acm.org/doi/pdf/10.1145/2460625.2460680?casa_token=nkmEsDhG44IAAAAA:sYqyBsnk4_tssXNF-5-SyyIpUbZZiJlu_L_7AuIiUahK_0TCU6vJKLCWjmrO_rNlHZ_yNvUk9-mw)
 - [What is Embodied Programming - Alex McLean](https://slab.org/what-is-embodied-programming/)
-- [The Pleasure Principle: Immersion, Engagement, and Flow - Douglas / Haragon](https://www.researchgate.net/publication/221267256_The_pleasure_principle_immersion_engagement_flow)
+- [The Pleasure Principle: Immersion, Engagement, and Flow - Douglas / Hargadon](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1038.2644&rep=rep1&type=pdf)
 
 ### Week 3/4: Physical Computing / Sensing
 
