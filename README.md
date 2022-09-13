@@ -116,11 +116,11 @@ Please submit a summary to me through Discord per the instructions at the top of
 For this assignment we will experiment with connecting sensors to Arduino, and using them to trigger events in a game engine / creative coding platform of your choice. Ideally, you will create an interactive experience that *would not be possible to create* using your laptop alone.
 
 Ideas for this design sprint include:
-• A small interface (perhaps three buttons + a potentiometer)  that replicates the experience of using a more traditional GUI, but in the physical world. This GUI should be connected to a desktop/laptop app. What does having dedicated physical controls add to the experience?
-• A simple game interface + game that combines using the joystick with an additional sensor (photocell, ultrasound, and tilt switch seem like promising  ideas).
-• Go completely embedded and make a small interactive experience using the 16x2 LCD display connected to one or more additional sensors. Perhaps a simple text based game with physical inputs?  Can you figure out how to make a more arcade style game with the constraints of 16x2? Note that the circuitry for the LCD display, while not complex, does require nine separate connections to the Arduino.
+- A small interface (perhaps three buttons + a potentiometer)  that replicates the experience of using a more traditional GUI, but in the physical world. This GUI should be connected to a desktop/laptop app. What does having dedicated physical controls add to the experience?
+- A simple game interface + game that combines using the joystick with an additional sensor (photocell, ultrasound, and tilt switch seem like promising  ideas).
+- Go completely embedded and make a small interactive experience using the 16x2 LCD display connected to one or more additional sensors. Perhaps a simple text based game with physical inputs?  Can you figure out how to make a more arcade style game with the constraints of 16x2? Note that the circuitry for the LCD display, while not complex, does require nine separate connections to the Arduino.
 
-Document whatever you create and upload it to a freely accessible site for critique. Write a 250-word (minimum) summary of your experience. How hard was it to incorporate the Arduino sensors / interface elements? What affordances did you  Make sure to include a link to your documentation video at the top of your writing, and be prepared to conduct critique sessions on your design in class. 
+Document whatever you create and upload it to a freely accessible site for critique. Write a 250-word (minimum) summary of your experience. How hard was it to incorporate the Arduino sensors / interface elements? What affordances did you explore?  Make sure to include a link to your documentation video at the top of your writing, and be prepared to conduct critique sessions on your design in class. 
 
 Unity + Arduino:  
 [Ardity](https://assetstore.unity.com/packages/tools/integration/ardity-arduino-unity-communication-made-easy-123819) - you can install this directly from the asset store.  
