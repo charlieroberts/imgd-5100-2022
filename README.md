@@ -129,13 +129,13 @@ Unreal Engine + Arduino:
 • Arduino Kit (cross-platform) : https://forums.unrealengine.com/community/community-content-tools-and-tutorials/91168-free-arduinokit-cross-platform-arduino-plugin-for-ue4/page4  
 • UEDuino (Windows only) : https://github.com/RVillani/UE4Duino
 
-### Week 5: Mobile Devices
+### Week 6: Mobile Devices
 
-#### Readings
+#### Readings (due October 4th)
 - Mads Soegaard: [Glossary of Human-Computer Interaction: Affordances](https://www.interaction-design.org/literature/book/the-glossary-of-human-computer-interaction/affordances)
 - Gurevich et al.: [Style and Constraint in Electronic Musical Instruments](https://www.researchgate.net/profile/Adnan_Marquez-Borbon/publication/228754343_Style_and_constraint_in_electronic_musical_instruments/links/02e7e522ffe1e37eae000000.pdf)
 - Atau Tanaka: [Mapping Out Instruments, Affordances, and Mobiles](http://research.gold.ac.uk/id/eprint/6834/1/P88_Tanaka.pdf)
-- Donald Norman: [Design Thinking](https://cs3041-18b.github.io/docs/reading/DesignThinking_DonNorman.pdf)
+- Donald Norman: [Affordance, Convention, and Design](https://dl.acm.org/doi/pdf/10.1145/301153.301168)
 
 #### Design Sprint 
 For this assignment we will experiment with using our phones as controllers for games, music, or other creative experiences. Regardless of which you choose, you will need to:
@@ -143,7 +143,7 @@ For this assignment we will experiment with using our phones as controllers for 
 2. Create  your game, musical instrument, or artistic experiment (or some combination of all three!) Make whatever you create accept messages over OSC so that it can communicate with your mobile device.  This can be in the platform of your choice… Unity, Web, Unreal, etc. although we’ll be covering Unity and Unreal specifically in class. Document whatever you  create in a video and upload it to a freely accessible site.
 3. Write a 250-word (minimum) summary of your experience. How hard was it to incorporate the mobile sensors? Were you able to use the sensors in a way that helped create a different experience from what you might have made with mouse / keyboard? Would you use mobile devices as game controllers for external games / interactive experiencecs again? Do you think the user experience is more embodied than a mouse + keyboard combo? Make sure to include a link to your documentation video at the top of your writing, and be prepared to conduct critique sessions on your design next class. 
 
-### Week 6/7: A Plurality of Realities: VR / AR / MR
+### Week 7: A Plurality of Realities: VR / AR / MR
 
 #### Readings
 Please submit a summary to me through Discord per the instructions at the top of the Course Summary.
