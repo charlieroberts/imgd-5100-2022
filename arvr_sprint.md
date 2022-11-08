@@ -37,6 +37,6 @@ _Some tips from Gabbi LaBorwit ('20)_
 
 - You can use this [tutorial](https://aframe.io/docs/1.3.0/guides/building-a-basic-scene.html) to build a basic scene and go from there, too.
 - Scroll down the left-sidebar on the [documentation](https://aframe.io/docs/1.3.0/introduction/) page to find a bunch of tutorials for animations, sound, and more.
-- Some cool [animations](https://aframe.io/docs/1.3.0/core/animations.html#direction_alternate) to play with.
+- Some cool [animations](https://aframe.io/docs/1.3.0/components/animation.html) to play with.
 - To take your own 360º picture download the free app on an iPhone called "360 Panorama" by Occipital, Inc and send  yourself the photo to get it on your computer. An [example](https://ambiguous-hare.glitch.me/) I made.
 - *Interacting with objects*: If you want to be able to click on objects or do things when you look at an object, look at this [tutorial](https://www.youtube.com/watch?v=yM89f0GLzB0) on youtube as well as the [code](https://github.com/SonarSystems/A-Frame-WebVR-Tutorials/blob/master/%5B6%5D%20Interacting%20With%20Objects/index.html) that comes with it.
