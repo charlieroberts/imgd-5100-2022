@@ -35,19 +35,17 @@ The final project is open-ended; you are encouraged to follow your personal inte
 - A VR / AR experience
 - A more focused HCI experiment where you design / test an interface for research purposes
 
-You are required to do some type of user evaluation of your work. Time in class will be provided for this, but obviously not all interfaces work well with remote testing. Give this some thought and be preapred to justify your chosen evaluation.
+You are required to do some type of user evaluation of your work. Give this some thought and be preapred to justify your chosen evaluation. I highly encourage group projects, and also highly encourage you to combine this project with projects from other courses as appropriate.
 
-Here is a timeline of deliverables for the project (dates TBD):
+Here is a timeline of deliverables for the project:
 
-1. A short paper (less than a page) describing what your project will be, what challenges / difficulties you expect to encounter when building it, and how you will evaluate it. Note there is no class this day (Patriots Day)
+1. A short paper (less than a page) describing what your project will be, what challenges / difficulties you expect to encounter when building it, and how you will evaluate it. Due 11/15.
 
-2. Prototype I. You will casually show/discuss your prototype with 1–2 other members of the class + the instructor on this day. Be prepared to either show pre-recorded video or do live demonstrations of your work.
+2. Prototype I. You will casually show/discuss your prototype with 1–2 other members of the class + the instructor on this day. Be prepared to either show pre-recorded video or do live demonstrations of your work. Due 12/2
 
-3. Check-in. Send a brief (< one page) summary of your progress to date to the instructor. You should now be at a point where you're ready to begin evaluating your work more seriously, and there will be class time allocated for this.
+3. Check-in. Send a brief (< one page) summary of your progress to date to the instructor. You should now be at a point where you're ready to begin evaluating your work more seriously, and there will be class time allocated for this. Due 12/9
 
-4. Final project presentations.
-
-5. Final projects are due (no class today, as WPI will be on a Friday schedule). Please create a small website that contains documentation of your project, including a brief description of the concept, a video of it in action, and a description of your evaluation and its results.
+4. Final project presentations. Please also create a small website that contains documentation of your project, including a brief description of the concept, a video of it in action, and a description of your evaluation and its results. Due 12/16 (last day of class)
 
 ## Course Outline (subject to change)
 For all readings, please prepare a paragraph or two (>200 words) describing points of interest you found in the article, questions you might have, and topics for discussion in class. Please submit this by 10AM the morning they are due, this will hopefully give me time to scan them before class.
