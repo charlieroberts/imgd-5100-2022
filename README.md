@@ -155,7 +155,7 @@ Please submit a summary to me through Discord per the instructions at the top of
 #### Readings
 - Linett: [Review-House of Eternal Return, Meow Wolf Art Center, Santa Fe](https://sloverlinett.com/wp-content/uploads/2019/03/Meow-Wolf-review-PLinett-in-Curator-Journal.pdf) *no review required for this reading*
 
-### Week 8: Game interfaces and alternative controllers
+### Week 8: Game interfaces and alternative controllers (due 11/22)
 
 #### Design Sprint
 For this spring, you can choose to make *either* an AR or a VR project (don't do both unless your super motivated). AR will require the use of your phone (or potentially a hololens if you have access to one), VR will require the use of a platform like Google Cardboard, or access to more specialized hardware if you have it.
